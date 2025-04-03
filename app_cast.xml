@@ -24,7 +24,7 @@
             <title>Version 1.0.0</title>
             <description>App cast test iOS.</description>
             <pubDate>Sun, 27 Mar 2025 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.0.0" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/us/app/splashid-classic/id6742768517" sparkle:version="1.0.0" sparkle:os="ios" />
         </item>
     </channel>
     <channel>
@@ -33,7 +33,7 @@
             <title>Version 1.0.0</title>
             <description>App cast test MacOS.</description>
             <pubDate>Sun, 27 Mar 2025 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.0.0" sparkle:os="macos" />
+            <enclosure url="https://apps.apple.com/us/app/splashid-classic/id6742768517" sparkle:version="1.0.0" sparkle:os="macos" />
         </item>
     </channel>
     <!-- <channel>
@@ -48,7 +48,7 @@
     <item>
         <title>Version 1.0.0</title>
         <description>Minor updates and improvements for testing.</description>
-        <enclosure url="https://apps.microsoft.com/detail/9PN68GS86KKG?ocid=pdpshare" sparkle:version="1.0.0" sparkle:os="windows" />
+        <enclosure url="ms-windows-store://pdp/?productid=9P1KMVRK30GT" sparkle:version="1.0.0" sparkle:os="windows" />
         <sparkle:deltas>
             <enclosure url="https://apps.microsoft.com/detail/9pn68gs86kkg?hl=en-US&gl=IN"
             sparkle:version="1.0.0"
